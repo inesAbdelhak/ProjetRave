@@ -1,1 +1,2 @@
-Lien géneré du deploiement android : https://expo.dev/artifacts/eas/opisEGJMgupnZghcikjNt8.aab
+#### Le projet React se trouve dans la branche Master 
+#### Lien géneré du deploiement android : https://expo.dev/artifacts/eas/opisEGJMgupnZghcikjNt8.aab
